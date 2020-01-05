@@ -1,0 +1,10 @@
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\bin\Debug\netcoreapp3.0\SumThreeDigits.exe
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\bin\Debug\netcoreapp3.0\SumThreeDigits.deps.json
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\bin\Debug\netcoreapp3.0\SumThreeDigits.runtimeconfig.json
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\bin\Debug\netcoreapp3.0\SumThreeDigits.runtimeconfig.dev.json
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\bin\Debug\netcoreapp3.0\SumThreeDigits.dll
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\bin\Debug\netcoreapp3.0\SumThreeDigits.pdb
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\obj\Debug\netcoreapp3.0\SumThreeDigits.AssemblyInfoInputs.cache
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\obj\Debug\netcoreapp3.0\SumThreeDigits.AssemblyInfo.cs
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\obj\Debug\netcoreapp3.0\SumThreeDigits.dll
+C:\Users\Nikoloff\source\repos\OperatorsAndExpressions\SumThreeDigits\obj\Debug\netcoreapp3.0\SumThreeDigits.pdb
