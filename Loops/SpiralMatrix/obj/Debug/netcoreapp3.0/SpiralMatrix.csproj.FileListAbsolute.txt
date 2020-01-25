@@ -1,0 +1,11 @@
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\bin\Debug\netcoreapp3.0\SpiralMatrix.exe
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\bin\Debug\netcoreapp3.0\SpiralMatrix.deps.json
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\bin\Debug\netcoreapp3.0\SpiralMatrix.runtimeconfig.json
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\bin\Debug\netcoreapp3.0\SpiralMatrix.runtimeconfig.dev.json
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\bin\Debug\netcoreapp3.0\SpiralMatrix.dll
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\bin\Debug\netcoreapp3.0\SpiralMatrix.pdb
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\obj\Debug\netcoreapp3.0\SpiralMatrix.csprojAssemblyReference.cache
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\obj\Debug\netcoreapp3.0\SpiralMatrix.AssemblyInfoInputs.cache
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\obj\Debug\netcoreapp3.0\SpiralMatrix.AssemblyInfo.cs
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\obj\Debug\netcoreapp3.0\SpiralMatrix.dll
+C:\Users\Nikoloff\source\repos\Loops\SpiralMatrix\obj\Debug\netcoreapp3.0\SpiralMatrix.pdb
