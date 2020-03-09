@@ -1,0 +1,11 @@
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Alphabet.exe
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Alphabet.deps.json
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Alphabet.runtimeconfig.json
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Alphabet.runtimeconfig.dev.json
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Alphabet.dll
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Alphabet.pdb
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Alphabet.csprojAssemblyReference.cache
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Alphabet.AssemblyInfoInputs.cache
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Alphabet.AssemblyInfo.cs
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Alphabet.dll
+C:\Users\Nikoloff\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Alphabet.pdb

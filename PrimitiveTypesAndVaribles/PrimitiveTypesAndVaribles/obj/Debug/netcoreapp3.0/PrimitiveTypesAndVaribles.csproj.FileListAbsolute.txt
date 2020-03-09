@@ -1,0 +1,11 @@
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\bin\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.exe
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\bin\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.deps.json
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\bin\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.runtimeconfig.json
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\bin\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.runtimeconfig.dev.json
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\bin\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.dll
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\bin\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.pdb
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\obj\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.csprojAssemblyReference.cache
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\obj\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.AssemblyInfoInputs.cache
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\obj\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.AssemblyInfo.cs
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\obj\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.dll
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrimitiveTypesAndVaribles\obj\Debug\netcoreapp3.0\PrimitiveTypesAndVaribles.pdb

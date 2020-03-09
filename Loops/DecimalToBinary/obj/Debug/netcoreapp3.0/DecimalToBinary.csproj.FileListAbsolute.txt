@@ -1,0 +1,10 @@
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\obj\Debug\netcoreapp3.0\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\obj\Debug\netcoreapp3.0\DecimalToBinary.AssemblyInfo.cs
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\bin\Debug\netcoreapp3.0\DecimalToBinary.exe
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\bin\Debug\netcoreapp3.0\DecimalToBinary.deps.json
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\bin\Debug\netcoreapp3.0\DecimalToBinary.runtimeconfig.json
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\bin\Debug\netcoreapp3.0\DecimalToBinary.runtimeconfig.dev.json
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\bin\Debug\netcoreapp3.0\DecimalToBinary.dll
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\bin\Debug\netcoreapp3.0\DecimalToBinary.pdb
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\obj\Debug\netcoreapp3.0\DecimalToBinary.dll
+C:\Users\Nikoloff\source\repos\Loops\DecimalToBinary\obj\Debug\netcoreapp3.0\DecimalToBinary.pdb

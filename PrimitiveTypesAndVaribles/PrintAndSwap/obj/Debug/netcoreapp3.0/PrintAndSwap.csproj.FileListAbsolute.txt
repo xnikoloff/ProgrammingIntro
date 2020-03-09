@@ -1,0 +1,10 @@
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\bin\Debug\netcoreapp3.0\PrintAndSwap.exe
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\bin\Debug\netcoreapp3.0\PrintAndSwap.deps.json
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\bin\Debug\netcoreapp3.0\PrintAndSwap.runtimeconfig.json
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\bin\Debug\netcoreapp3.0\PrintAndSwap.runtimeconfig.dev.json
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\bin\Debug\netcoreapp3.0\PrintAndSwap.dll
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\bin\Debug\netcoreapp3.0\PrintAndSwap.pdb
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\obj\Debug\netcoreapp3.0\PrintAndSwap.AssemblyInfoInputs.cache
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\obj\Debug\netcoreapp3.0\PrintAndSwap.AssemblyInfo.cs
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\obj\Debug\netcoreapp3.0\PrintAndSwap.dll
+C:\Users\Nikoloff\source\repos\PrimitiveTypesAndVaribles\PrintAndSwap\obj\Debug\netcoreapp3.0\PrintAndSwap.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DivisibleBy3And7/1.0.0": {
+        "runtime": {
+          "DivisibleBy3And7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DivisibleBy3And7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
