@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\bin\Debug\netcoreapp3.1\Today.exe
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\bin\Debug\netcoreapp3.1\Today.deps.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\bin\Debug\netcoreapp3.1\Today.runtimeconfig.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\bin\Debug\netcoreapp3.1\Today.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\bin\Debug\netcoreapp3.1\Today.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\bin\Debug\netcoreapp3.1\Today.pdb
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\obj\Debug\netcoreapp3.1\Today.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\obj\Debug\netcoreapp3.1\Today.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\obj\Debug\netcoreapp3.1\Today.AssemblyInfo.cs
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\obj\Debug\netcoreapp3.1\Today.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\Today\obj\Debug\netcoreapp3.1\Today.pdb

@@ -1,0 +1,10 @@
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\obj\Debug\netcoreapp3.1\TenCats.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\obj\Debug\netcoreapp3.1\TenCats.AssemblyInfo.cs
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\bin\Debug\netcoreapp3.1\TenCats.exe
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\bin\Debug\netcoreapp3.1\TenCats.deps.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\bin\Debug\netcoreapp3.1\TenCats.runtimeconfig.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\bin\Debug\netcoreapp3.1\TenCats.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\bin\Debug\netcoreapp3.1\TenCats.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\bin\Debug\netcoreapp3.1\TenCats.pdb
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\obj\Debug\netcoreapp3.1\TenCats.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TenCats\obj\Debug\netcoreapp3.1\TenCats.pdb

@@ -1,0 +1,10 @@
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\bin\Debug\netcoreapp3.1\TimePassedSincePCIsOn.exe
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\bin\Debug\netcoreapp3.1\TimePassedSincePCIsOn.deps.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\bin\Debug\netcoreapp3.1\TimePassedSincePCIsOn.runtimeconfig.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\bin\Debug\netcoreapp3.1\TimePassedSincePCIsOn.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\bin\Debug\netcoreapp3.1\TimePassedSincePCIsOn.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\bin\Debug\netcoreapp3.1\TimePassedSincePCIsOn.pdb
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\obj\Debug\netcoreapp3.1\TimePassedSincePCIsOn.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\obj\Debug\netcoreapp3.1\TimePassedSincePCIsOn.AssemblyInfo.cs
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\obj\Debug\netcoreapp3.1\TimePassedSincePCIsOn.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\TimePassedSincePCIsOn\obj\Debug\netcoreapp3.1\TimePassedSincePCIsOn.pdb

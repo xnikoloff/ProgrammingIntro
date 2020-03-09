@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.exe
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.deps.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.pdb

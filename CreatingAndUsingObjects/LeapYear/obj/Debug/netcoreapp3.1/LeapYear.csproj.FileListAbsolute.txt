@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb

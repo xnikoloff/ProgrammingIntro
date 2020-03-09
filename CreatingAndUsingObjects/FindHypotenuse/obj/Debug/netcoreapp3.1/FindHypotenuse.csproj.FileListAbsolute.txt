@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\bin\Debug\netcoreapp3.1\FindHypotenuse.exe
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\bin\Debug\netcoreapp3.1\FindHypotenuse.deps.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\bin\Debug\netcoreapp3.1\FindHypotenuse.runtimeconfig.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\bin\Debug\netcoreapp3.1\FindHypotenuse.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\bin\Debug\netcoreapp3.1\FindHypotenuse.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\bin\Debug\netcoreapp3.1\FindHypotenuse.pdb
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\obj\Debug\netcoreapp3.1\FindHypotenuse.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\obj\Debug\netcoreapp3.1\FindHypotenuse.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\obj\Debug\netcoreapp3.1\FindHypotenuse.AssemblyInfo.cs
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\obj\Debug\netcoreapp3.1\FindHypotenuse.dll
+C:\Users\xniko\source\repos\CreatingAndUsingObjects\FindHypotenuse\obj\Debug\netcoreapp3.1\FindHypotenuse.pdb
