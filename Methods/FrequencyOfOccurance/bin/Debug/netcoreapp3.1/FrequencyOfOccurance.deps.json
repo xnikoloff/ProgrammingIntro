@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FrequencyOfOccurance/1.0.0": {
+        "runtime": {
+          "FrequencyOfOccurance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrequencyOfOccurance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

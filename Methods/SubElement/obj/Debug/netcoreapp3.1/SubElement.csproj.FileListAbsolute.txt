@@ -1,0 +1,10 @@
+C:\Users\xniko\source\repos\Methods\SubElement\bin\Debug\netcoreapp3.1\SubElement.exe
+C:\Users\xniko\source\repos\Methods\SubElement\bin\Debug\netcoreapp3.1\SubElement.deps.json
+C:\Users\xniko\source\repos\Methods\SubElement\bin\Debug\netcoreapp3.1\SubElement.runtimeconfig.json
+C:\Users\xniko\source\repos\Methods\SubElement\bin\Debug\netcoreapp3.1\SubElement.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\Methods\SubElement\bin\Debug\netcoreapp3.1\SubElement.dll
+C:\Users\xniko\source\repos\Methods\SubElement\bin\Debug\netcoreapp3.1\SubElement.pdb
+C:\Users\xniko\source\repos\Methods\SubElement\obj\Debug\netcoreapp3.1\SubElement.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\Methods\SubElement\obj\Debug\netcoreapp3.1\SubElement.AssemblyInfo.cs
+C:\Users\xniko\source\repos\Methods\SubElement\obj\Debug\netcoreapp3.1\SubElement.dll
+C:\Users\xniko\source\repos\Methods\SubElement\obj\Debug\netcoreapp3.1\SubElement.pdb

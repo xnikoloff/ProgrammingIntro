@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\Methods\GetLastDigit\bin\Debug\netcoreapp3.1\GetLastDigit.exe
+C:\Users\xniko\source\repos\Methods\GetLastDigit\bin\Debug\netcoreapp3.1\GetLastDigit.deps.json
+C:\Users\xniko\source\repos\Methods\GetLastDigit\bin\Debug\netcoreapp3.1\GetLastDigit.runtimeconfig.json
+C:\Users\xniko\source\repos\Methods\GetLastDigit\bin\Debug\netcoreapp3.1\GetLastDigit.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\Methods\GetLastDigit\bin\Debug\netcoreapp3.1\GetLastDigit.dll
+C:\Users\xniko\source\repos\Methods\GetLastDigit\bin\Debug\netcoreapp3.1\GetLastDigit.pdb
+C:\Users\xniko\source\repos\Methods\GetLastDigit\obj\Debug\netcoreapp3.1\GetLastDigit.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\Methods\GetLastDigit\obj\Debug\netcoreapp3.1\GetLastDigit.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\Methods\GetLastDigit\obj\Debug\netcoreapp3.1\GetLastDigit.AssemblyInfo.cs
+C:\Users\xniko\source\repos\Methods\GetLastDigit\obj\Debug\netcoreapp3.1\GetLastDigit.dll
+C:\Users\xniko\source\repos\Methods\GetLastDigit\obj\Debug\netcoreapp3.1\GetLastDigit.pdb

@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\bin\Debug\netcoreapp3.1\GreatestElementOfSubarray.exe
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\bin\Debug\netcoreapp3.1\GreatestElementOfSubarray.deps.json
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\bin\Debug\netcoreapp3.1\GreatestElementOfSubarray.runtimeconfig.json
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\bin\Debug\netcoreapp3.1\GreatestElementOfSubarray.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\bin\Debug\netcoreapp3.1\GreatestElementOfSubarray.dll
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\bin\Debug\netcoreapp3.1\GreatestElementOfSubarray.pdb
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\obj\Debug\netcoreapp3.1\GreatestElementOfSubarray.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\obj\Debug\netcoreapp3.1\GreatestElementOfSubarray.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\obj\Debug\netcoreapp3.1\GreatestElementOfSubarray.AssemblyInfo.cs
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\obj\Debug\netcoreapp3.1\GreatestElementOfSubarray.dll
+C:\Users\xniko\source\repos\Methods\GreatestElementOfSubarray\obj\Debug\netcoreapp3.1\GreatestElementOfSubarray.pdb

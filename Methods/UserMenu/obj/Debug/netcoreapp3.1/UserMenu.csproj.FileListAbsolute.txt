@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\Methods\UserMenu\bin\Debug\netcoreapp3.1\UserMenu.exe
+C:\Users\xniko\source\repos\Methods\UserMenu\bin\Debug\netcoreapp3.1\UserMenu.deps.json
+C:\Users\xniko\source\repos\Methods\UserMenu\bin\Debug\netcoreapp3.1\UserMenu.runtimeconfig.json
+C:\Users\xniko\source\repos\Methods\UserMenu\bin\Debug\netcoreapp3.1\UserMenu.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\Methods\UserMenu\bin\Debug\netcoreapp3.1\UserMenu.dll
+C:\Users\xniko\source\repos\Methods\UserMenu\bin\Debug\netcoreapp3.1\UserMenu.pdb
+C:\Users\xniko\source\repos\Methods\UserMenu\obj\Debug\netcoreapp3.1\UserMenu.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\Methods\UserMenu\obj\Debug\netcoreapp3.1\UserMenu.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\Methods\UserMenu\obj\Debug\netcoreapp3.1\UserMenu.AssemblyInfo.cs
+C:\Users\xniko\source\repos\Methods\UserMenu\obj\Debug\netcoreapp3.1\UserMenu.dll
+C:\Users\xniko\source\repos\Methods\UserMenu\obj\Debug\netcoreapp3.1\UserMenu.pdb

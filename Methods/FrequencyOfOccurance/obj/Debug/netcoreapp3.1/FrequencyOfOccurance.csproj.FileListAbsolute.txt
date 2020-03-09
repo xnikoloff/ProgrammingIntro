@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\bin\Debug\netcoreapp3.1\FrequencyOfOccurance.exe
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\bin\Debug\netcoreapp3.1\FrequencyOfOccurance.deps.json
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\bin\Debug\netcoreapp3.1\FrequencyOfOccurance.runtimeconfig.json
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\bin\Debug\netcoreapp3.1\FrequencyOfOccurance.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\bin\Debug\netcoreapp3.1\FrequencyOfOccurance.dll
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\bin\Debug\netcoreapp3.1\FrequencyOfOccurance.pdb
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\obj\Debug\netcoreapp3.1\FrequencyOfOccurance.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\obj\Debug\netcoreapp3.1\FrequencyOfOccurance.AssemblyInfo.cs
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\obj\Debug\netcoreapp3.1\FrequencyOfOccurance.dll
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\obj\Debug\netcoreapp3.1\FrequencyOfOccurance.pdb
+C:\Users\xniko\source\repos\Methods\FrequencyOfOccurance\obj\Debug\netcoreapp3.1\FrequencyOfOccurance.csprojAssemblyReference.cache
